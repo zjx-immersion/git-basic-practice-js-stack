@@ -1,5 +1,5 @@
 'use strict';
 
-function add(collectionA, collectionB) {
+function add(num1, num2) {
   return "";
 }
